@@ -1,0 +1,45 @@
+html {
+    height: 100%;
+}
+body {
+    min-height: 100%;
+}
+.cn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+p , li , h5 {
+    text-align: left;
+}
+.detail li {
+    padding-top: 15px;
+}
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 50px;
+ }
+ caption {
+    caption-side: top;
+    text-align: center;
+ }
+ 
+/*
+     FILE ARCHIVED ON 19:35:56 Apr 23, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:49:27 Mar 10, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.564
+  load_resource: 234.002
+  PetaboxLoader3.resolve: 122.722
+  PetaboxLoader3.datanode: 100.566 (2)
+  loaddict: 36.697
+*/
